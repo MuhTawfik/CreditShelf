@@ -14,3 +14,6 @@ pip install  matplotlib
 pip install ipywidgets
 pip install shapely
 pip install geopandas  
+
+
+upload CreditShelf.ipynb note book to jupyter 
