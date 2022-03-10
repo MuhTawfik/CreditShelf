@@ -1,6 +1,6 @@
-# CreditShelf
-CreditShelf assignment 
-Prerecusit 
+# kaggel road accident 
+kaggel road accident 
+ 
 
 1- please refer to the website to install required jupyter note book enviroment and connect to sql server
 https://www.sqlshack.com/learn-jupyter-notebooks-for-sql-server/ 
@@ -16,4 +16,4 @@ pip install shapely
 pip install geopandas  
 
 
-upload CreditShelf.ipynb note book to jupyter 
+ 
